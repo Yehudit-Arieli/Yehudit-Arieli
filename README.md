@@ -23,7 +23,7 @@ Software Developer and logical thinker with strong self-learning skills, proven 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
-  <img src="https://img.shields.io/badge/-%20-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="50" width="50" alt="dotnet"/>
+  <img src="https://img.shields.io/badge/-%20-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="50" width="50" alt="dotnet"/>
 </p>
 
 <p align="left">
