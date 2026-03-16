@@ -58,7 +58,9 @@ Here are some of the key projects I've built:
 * 💼 **Background:** Managed end-to-end production projects and currently tutoring students in Math and Computer Science.
 
 ---
-### 📫 Let's Connect
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehudit-arieli)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y0527187734@gmail.com)
+### 📫 Let's Connect:
+
+* **Email:** [y0527187734@gmail.com](mailto:y0527187734@gmail.com)
+* **LinkedIn:** [linkedin.com/in/yehudit-arieli](https://www.linkedin.com/in/yehudit-arieli)
