@@ -28,6 +28,7 @@ Software Developer and logical thinker with strong self-learning skills, proven 
   <span style="display: inline-block; width: 45px; height: 45px; background-color: #512BD4; color: white; border-radius: 5px; font-family: sans-serif; text-align:     center; line-height: 1.1; font-size: 10px; padding-top: 5px; box-sizing: border-box;">
     <b>.NET</b><br>Core
   </span>
+</p>
   
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
