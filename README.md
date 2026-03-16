@@ -24,7 +24,10 @@ Software Developer and logical thinker with strong self-learning skills, proven 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
-<img src="https://static-00.iconduck.com/assets.00/dotnet-icon-2048x2048-vj06t0sm.png" alt="dotnet" width="45" height="45"/></p>
+<span style="display: inline-block; width: 45px; height: 45px; background-color: #512BD4; color: white; border-radius: 5px; font-family: sans-serif; text-align: center; line-height: 45px; font-size: 14px; box-sizing: border-box;">
+    <b>.NET</b>
+  </span>
+</p>
   
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
