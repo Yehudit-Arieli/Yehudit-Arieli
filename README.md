@@ -11,23 +11,23 @@ Software Developer and logical thinker with strong self-learning skills, proven 
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,java,js,ts" />
+  <img src="https://skillicons.dev/icons?i=python,cs,c,java,js,ts" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap,dotnet" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,spring,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /> 
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,svg,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,vscode,postman" />
 </p>
 ---
 
