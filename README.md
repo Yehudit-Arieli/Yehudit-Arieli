@@ -6,14 +6,29 @@ Software Developer and logical thinker with strong self-learning skills, proven 
 
 ---
 
-### 🛠️ Technical Arsenal
+###  Technical Arsenal
 
-* **Languages:** Python, C#, Java, JavaScript, TypeScript, C
-* **Frontend:** React.js, Angular, HTML5, CSS3, Redux Toolkit, Bootstrap
-* **Backend:** Node.js, Express, .NET (Core & Framework), Spring Boot, Flask
-* **Databases:** MongoDB (Mongoose), MySQL, SQL Server
-* **DevOps / Tools:** AWS, Docker, Git, Linux, Swagger, Render, Web API
+### 🛠️ Languages and Tools
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,java,js,ts" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,spring,flask" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlserver" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,svg,visualstudio" />
+</p>
 ---
 
 ### 🚀 Featured Projects
