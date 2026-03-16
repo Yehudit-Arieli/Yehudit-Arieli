@@ -24,8 +24,7 @@ Software Developer and logical thinker with strong self-learning skills, proven 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
-  <span style="display: inline-block; width: 45px; height: 45px; background-color: #512BD4; color: white; border-radius: 5px; font-family: sans-serif; text-align:     center; line-height: 1.1; font-size: 10px; padding-top: 5px; box-sizing: border-box;">
+  <span style="display: inline-block; width: 45px; height: 45px; background-color: #512BD4; color: white; border-radius: 5px; font-family: sans-serif; text-align: center; line-height: 1.1; font-size: 10px; padding-top: 5px; box-sizing: border-box;">
     <b>.NET</b><br>Core
   </span>
 </p>
