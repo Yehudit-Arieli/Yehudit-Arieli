@@ -1,18 +1,18 @@
 # Hi there, I'm Yehudit Arieli 👋
 
-### Full Stack Developer | Logical Thinker | Lifelong Learner
+### Full Stack Developer |
 
-I am a software developer with deep logical thinking and strong autodidactic skills. I excel at rapidly adopting new technologies and integrating AI tools into the development workflow  I bring a high work ethic, extreme organization, and an eye for clean, maintainable code. 
+Software Developer and logical thinker with strong self-learning skills, proven in quickly mastering and integrating new technologies and AI tools. Highly organized, detail-oriented, and able to dive into existing codebases efficiently. Thrives under pressure while maintaining excellent teamwork and communication.
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-* **Programming Languages:** Python, C#, Java, JavaScript, TypeScript, C
-* **Frontend Development:** React.js, Angular, HTML5, CSS3, Redux Toolkit
-* **Backend Development:** Node.js, Express, .NET (Core & Framework), Spring Boot, Flask
+* **Languages:** Python, C#, Java, JavaScript, TypeScript, C
+* **Frontend:** React.js, Angular, HTML5, CSS3, Redux Toolkit, Bootstrap
+* **Backend:** Node.js, Express, .NET (Core & Framework), Spring Boot, Flask
 * **Databases:** MongoDB (Mongoose), MySQL, SQL Server
-* **Cloud, DevOps & Tools:** AWS, Docker, Git, Linux, Swagger, Render, Web API
+* **DevOps / Tools:** AWS, Docker, Git, Linux, Swagger, Render, Web API
 
 ---
 
