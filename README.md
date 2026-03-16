@@ -27,7 +27,7 @@ Software Developer and logical thinker with strong self-learning skills, proven 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,vscode,postman" />
 </p>
----
+---                                                                                                                                                                       
 
 ### 🚀 Featured Projects
 
