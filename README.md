@@ -7,7 +7,6 @@ Software Developer and logical thinker with strong self-learning skills, proven 
 ---
 
 ### 🛠️ Languages and Tools
-### Languages and Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cs,c,java,js,ts" />
