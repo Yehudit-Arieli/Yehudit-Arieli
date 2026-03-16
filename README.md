@@ -53,9 +53,9 @@ Here are some of the key projects I've built:
 ---
 
 ### 🌱 Education & Background
-* **Software Engineering (Mahat)** - Graduating with a very high average.
-* **Algorithms Course** - Ultra-Code (Kamatech).
-* **Background:** Managed end-to-end production projects and currently tutoring students in Math and Computer Science.
+* 🎓 **Software Engineering (Mahat)** - Graduating with a very high average.
+* 🧠 **Algorithms Course** - Ultra-Code (Kamatech).
+* 💼 **Background:** Managed end-to-end production projects and currently tutoring students in Math and Computer Science.
 
 ---
 
