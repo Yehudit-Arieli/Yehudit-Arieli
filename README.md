@@ -1,6 +1,6 @@
 # Hi there, I'm Yehudit Arieli 👋
 
-### Full Stack Developer |
+### Full Stack Developer
 
 Software Developer and logical thinker with strong self-learning skills, proven in quickly mastering and integrating new technologies and AI tools. Highly organized, detail-oriented, and able to dive into existing codebases efficiently. Thrives under pressure while maintaining excellent teamwork and communication.
 
@@ -60,5 +60,5 @@ Here are some of the key projects I've built:
 ---
 
 ### 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_PROFILE_NAME_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Yehudit-Arieli)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y0527187734@gmail.com)
