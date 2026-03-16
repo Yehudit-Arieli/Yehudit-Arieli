@@ -16,6 +16,10 @@ Software Developer and logical thinker with strong self-learning skills, proven 
 
 ### Languages and Tools
 
+Software Developer and logical thinker with strong self-learning skills, proven in quickly mastering and integrating new technologies and AI tools. Highly organized, detail-oriented, and able to dive into existing codebases efficiently. Thrives under pressure while maintaining excellent teamwork and communication.
+
+### Languages and Tools
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
