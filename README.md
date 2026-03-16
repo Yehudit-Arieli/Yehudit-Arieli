@@ -15,7 +15,12 @@ Software Developer and logical thinker with strong self-learning skills, proven 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+  <svg width="45" height="45" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg">
+    <rect width="45" height="45" rx="8" fill="#512BD4"/>
+    <path d="M15.5 18h1.5v9h-1.5zM21 18h1.5l3.5 5.5V18h1.5v9H26l-3.5-5.5V27H21V18zm9.5 0h4.5v1.5h-3v2.2h2.5V23h-2.5v2.3h3V27h-4.5V18z" fill="white"/>
+    <circle cx="12" cy="26" r="1.5" fill="white"/>
+  </svg>
 </p>
 
 <p align="left">
