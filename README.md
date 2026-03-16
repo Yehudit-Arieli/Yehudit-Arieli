@@ -28,27 +28,27 @@ Software Developer and logical thinker with strong self-learning skills, proven 
   <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,vscode,postman" />
 </p>
 
----                                                                                                                                                                                                                                 
+---
 
 ### 🚀 Featured Projects
 
 Here are some of the key projects I've built:
 
 * 🎓 **Scholarship Management System (Full Stack)**
-    End-to-end development of a secure multi-stage form system. Includes an admin panel for real-time status management and secure file uploads.
-    *Tech: React, Redux Toolkit, Node.js, Express, MongoDB, JWT, REST API.*
+  End-to-end development of a secure multi-stage form system. Includes an admin panel for real-time status management and secure file uploads.
+  *Tech: React, Redux Toolkit, Node.js, Express, MongoDB, JWT, REST API.*
 
 * 🏋️‍♀️ **Gym Management Database (SQL)**
-    A complex relational database system for managing a gym's operations. Features automated pricing with triggers (5-7% early bird & health fund discounts) and capacity-based registration management.
-    *Tech: SQL Server, T-SQL (Triggers, Procedures, Functions, Cursors).*
+  A complex relational database system for managing a gym's operations. Features automated pricing with triggers (5-7% early bird & health fund discounts) and capacity-based registration management.
+  *Tech: SQL Server, T-SQL (Triggers, Procedures, Functions, Cursors).*
 
 * 🍳 **Recipe Sharing Platform**
-    An AI-assisted platform enabling users to search for recipes, with complete user and admin management features.
-    *Tech: Angular (Frontend), Python (Backend), Bootstrap.*
+  An AI-assisted platform enabling users to search for recipes, with complete user and admin management features.
+  *Tech: Angular (Frontend), Python (Backend), Bootstrap.*
 
 * 💻 **CLI File Packager Tool**
-    A command-line interface tool built to package and sort various file types efficiently.
-    *Tech: C#, .NET.*
+  A command-line interface tool built to package and sort various file types efficiently.
+  *Tech: C#, .NET.*
 
 ---
 
