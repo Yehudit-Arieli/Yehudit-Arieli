@@ -26,7 +26,7 @@ Software Developer and logical thinker with strong self-learning skills, proven 
 **🗄️ Databases (SQL & NoSQL)**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" style="vertical-align: middle; margin-left: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_server_2017_logo.svg" width="48" height="48" style="vertical-align: middle; margin-left: 5px;" />
 </p>
   
 **🚀 DevOps & Tools**
