@@ -8,28 +8,28 @@ Software Developer and logical thinker with strong self-learning skills, proven 
 
 ### 🛠️ Languages and Tools
 
-**🌐 Languages**
+**Languages**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cs,c,java,js,ts,pycharm" />
 </p>
 
-**🎨 Frontend**
+**Frontend**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap,dotnet" />
 </p>
 
-**⚙️ Backend & Frameworks**
+**Backend & Frameworks**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask" />
 </p>
 
-**🗄️ Databases (SQL & NoSQL)**
+**Databases (SQL & NoSQL)**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_server_2017_logo.svg" width="48" height="48" style="vertical-align: middle; margin-left: 5px;" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" style="vertical-align: middle; margin-left: 10px;" />
 </p>
   
-**🚀 DevOps & Tools**
+**DevOps & Tools**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,vscode,postman,swagger" />
 </p>
