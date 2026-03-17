@@ -8,22 +8,27 @@ Software Developer and logical thinker with strong self-learning skills, proven 
 
 ### 🛠️ Languages and Tools
 
+#### 🌐 Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cs,c,java,js,ts" />
 </p>
 
+#### 🎨 Frontend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap,dotnet" />
 </p>
 
+#### ⚙️ Backend & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask" />
 </p>
 
+#### 🗄️ Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /> 
 </p>
 
+#### 🚀 DevOps & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,vscode,postman" />
 </p>
@@ -57,7 +62,6 @@ Here are some of the key projects I've built:
 * 🧠 **Algorithms Course** - Ultra-Code (Kamatech).
 * 💼 **Background:** Managed end-to-end production projects and currently tutoring students in Math and Computer Science.
 
----
 ---
 
 ### 📫 Let's Connect:
