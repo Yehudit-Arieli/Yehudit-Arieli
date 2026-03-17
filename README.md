@@ -8,20 +8,29 @@ Software Developer and logical thinker with strong self-learning skills, proven 
 
 ### 🛠️ Languages and Tools
 
-**🌐 Languages**
-<p align="left"><img src="https://skillicons.dev/icons?i=python,cs,c,java,js,ts" /></p>
+**🌐 Languages & AI**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cs,c,java,js,ts,sklearn" />
+</p>
 
 **🎨 Frontend**
-<p align="left"><img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap,dotnet" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap,dotnet" />
+</p>
 
 **⚙️ Backend & Frameworks**
-<p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask" />
+</p>
 
-**🗄️ DB**
-<p align="left"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /></p>
+**🗄️ Databases (SQL & NoSQL)**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /> 
+</p>
 
 **🚀 DevOps & Tools**
-<p align="left"><img src="https://skillicons.dev/icons?i=aws,docker,git,linux,vscode,postman" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,vscode,postman,swagger" />
 </p>
 
 ---
