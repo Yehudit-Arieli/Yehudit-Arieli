@@ -25,8 +25,9 @@ Software Developer and logical thinker with strong self-learning skills, proven 
 
 **🗄️ Databases (SQL & NoSQL)**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,mssql,postgres" /></p>
-
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+  
 **🚀 DevOps & Tools**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,vscode,postman,swagger" />
