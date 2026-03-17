@@ -17,7 +17,7 @@ Software Developer and logical thinker with strong self-learning skills, proven 
 **⚙️ Backend & Frameworks**
 <p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask" /></p>
 
-**🗄️ Databases**
+**🗄️ DB**
 <p align="left"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /></p>
 
 **🚀 DevOps & Tools**
